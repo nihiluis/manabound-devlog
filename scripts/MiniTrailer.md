@@ -4,7 +4,7 @@ Just supposed to be an appetizer for Blue Sky and as an intro to my first Youtub
 ## Script
 Manabound is a sandbox game where your chosen heroes go from rags to riches. Manabound features a large overworld
   - shot of walking Rhydaeron to the docks
-  - shot of buying a ship
+  - shot of crafting a ship
   - shot of the ship traversing the ocean
 
 Build a deck and Level up your heroes in battle
