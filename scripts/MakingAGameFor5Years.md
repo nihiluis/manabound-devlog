@@ -17,6 +17,7 @@
 - fishing
 - killing chicken
 - defeating mobs
+- open chest
 - selling loot at the postbox
 
 **Battling**
@@ -26,7 +27,9 @@
 
 **Progression (5s)**
 - crafting big sword and equipping it on gear ui
-- 
+- show genetic traits
+- offer something to the gods, get a modifier
+- train, debate
 
 **Housing (5s)**
 - build crafting station
@@ -34,7 +37,7 @@
 - place house, enter house
 
 ## Hook
-Explore a big sandbox world.
+Explore a big sandbox world. Get rich, become powerful, build up your character. Its a sandbox, so why just one character? You can have more and develop every character to your desire
 
 ## Origin Story
 - wanted to combine nostalgia for oldschool JRPGs (shot of Golden Sun travelling by boat), sense of exploration
@@ -44,6 +47,7 @@ Explore a big sandbox world.
 
 ## Vision
 ### Gameplay loop
+- Everything you do makes your character stronger, gives you coin, so you keep on exploring, farming, whatever
 - I did not plan this, for fun, emergent
 - makes sense to put this later in the video since it emerged later and is still not finished
 - but viewer needs to know what to expect, so I'll start with a super basic one I think
