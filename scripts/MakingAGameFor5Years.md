@@ -42,6 +42,9 @@ Explore a big sandbox world. Get rich, become powerful, build up your character.
 ## Origin Story
 - wanted to combine nostalgia for oldschool JRPGs (shot of Golden Sun travelling by boat), sense of exploration
 - and passion for building up land, characters and even dynasties in a large world in games like Crusader Kings 2 and Europa Universalis 4
+- always wanted to create my own world. while i did read some books, i grew up with video games as my ultimate medium to experience narration
+  - so this set up my dream, ambition
+
 - picking up skills along the way
 - in 2020 (or was it 2019?) I did not know what I was getting myself into
 
