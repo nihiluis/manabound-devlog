@@ -2,6 +2,8 @@
 ## Intro
 **Exploration (5s)**
 - waking up in the cave
+  - you wake up as someone weak
+  - eventually, you grow strong
 - walking on the overworld
   - event with a decision
 - walking in Gwent
@@ -40,8 +42,9 @@
 Explore a big sandbox world. Get rich, become powerful, build up your character. Its a sandbox, so why just one character? You can have more and develop every character to your desire
 
 ## Origin Story
-- wanted to combine nostalgia for oldschool JRPGs (shot of Golden Sun travelling by boat), sense of exploration
-- and passion for building up land, characters and even dynasties in a large world in games like Crusader Kings 2 and Europa Universalis 4
+- wanted to combine nostalgia for oldschool JRPGs (shot of Golden Sun travelling by boat), sense of exploration and character progression
+- with a wider array of activities that enable emergent roleplay as in Stardew Valley
+- and passion for building up land, characters and even dynasties in a large sandbox world in games like Crusader Kings 2 and Europa Universalis 4
 - always wanted to create my own world. while i did read some books, i grew up with video games as my ultimate medium to experience narration
   - so this set up my dream, ambition
 
