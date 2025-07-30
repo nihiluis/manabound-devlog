@@ -1,42 +1,41 @@
 # Looking back on 1825 days of developing Manalord
 ## Intro
 **Exploration (5s)**
-- waking up in the cave
-  - you wake up as someone weak
+- waking up in the cave ✅
+  - subtext: you wake up as someone weak
   - eventually, you grow strong
-- walking on the overworld
-  - event with a decision
-- walking in Gwent
-- walking in Rhydaeron
-- talking to NPC
-- traveling by ship on the overworld
+- walking on the overworld ✅
+  - event with a decision ✅
+- walking in Gwent ✅
+- walking in Rhydaeron ❌
+- talking to NPC ✅
+- traveling by ship on the overworld ✅
 
 **Looting (5s)**
-- mining
-- dig up mound
-- forage berry
-- felling tree
-- fishing
-- killing chicken
-- defeating mobs
-- open chest
-- selling loot at the postbox
+- mining ✅
+- dig up mound ✅
+- forage berry ✅
+- felling tree ✅
+- fishing ✅
+- killing chicken ✅
+- defeating mobs ✅
+- open chest ✅
+- selling loot at the postbox ✅
 
 **Battling**
-- building a deck
-- actual battle footage
-- is not polished enough yet
+- building a deck ❌
+- actual battle footage ❌
 
 **Progression (5s)**
-- crafting big sword and equipping it on gear ui
-- show genetic traits
-- offer something to the gods, get a modifier
-- train, debate
+- crafting big sword and equipping it on gear ui ❌
+- show genetic traits ✅
+- offer something to the gods, get a modifier ✅
+- train, debate ✅
 
 **Housing (5s)**
-- build crafting station
-- place crafting station
-- place house, enter house
+- build crafting station ✅
+- place crafting station ✅
+- place house, enter house ✅
 
 ## Hook
 Explore a big sandbox world. Get rich, become powerful, build up your character. Its a sandbox, so why just one character? You can have more and develop every character to your desire
