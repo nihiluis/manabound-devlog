@@ -23,11 +23,11 @@
 - selling loot at the postbox ✅
 
 **Battling**
-- building a deck ❌
-- actual battle footage ❌
+- building a deck ❌ (✅)
+- actual battle footage ❌ (✅)
 
 **Progression (5s)**
-- crafting big sword and equipping it on gear ui ❌
+- crafting big sword and equipping it on gear ui ✅
 - show genetic traits ✅
 - offer something to the gods, get a modifier ✅
 - train, debate ✅
