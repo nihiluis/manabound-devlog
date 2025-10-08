@@ -42,18 +42,16 @@ Hey guys, I've been cooking on my game for more than 5 years and now it's time f
 
 In Manalord you start as a tiny hero in traditional RPG manner. 
 
-You can explore the world of Lorim, become a powerful warrior by killing mobs and banditry, rising to an S-rank adventurer. It's a sandbox game though! So if you want to have it a little more chill, buy yourself a plot of land, grow crops, go fishing, craft and finally build up your estate. Just like in a farming sim.
+You can explore the world of Lorim, become a powerful warrior by killing mobs and banditry, rising to an S-rank adventurer. It's a sandbox game though! So if you want to have it a little more chill, buy yourself a plot of land, grow crops, go fishing, craft and build up your estate. Just like in a farming sim.
 
-Manalord begins with one character but eventually you can gather heroes that follow you. As time passes and you go through the seasons and years, your hero will age and a new generation will take over. Unless you somehow acquire immortality.
+So what's the twist? You begin with one hero but eventually you found a dynasty and gather heroes that follow you. As time passes and you go through the seasons and years, your hero will age and a new generation will take over.
 
 ## Origin Story
-In my 20s I became a guy who wanted to create something. Being a software dev and gamer in my youth, I stumbled upon the Godot engine. I read about it a few times about it, doing nothing.. But at some point I guess I got inspired and just started learning Godot. And this lead me on a 5 year journey whose result you see right now.
+Some years ago, I stumbled upon the open-source Godot engine. I read about it a few times about it, doing nothing.. But at some point I guess I got inspired and just started learning Godot. And this lead me on a 5 year journey whose result you see right now.
 
-My killer nostalgic game from being a child was Golden Sun. Wanting to craft my own fantasy world and replicate that sense of exploration, I needed a big overworld and classic RPG character progression. 
+At first, I just wanted to learn, have fun. Slowly this evolved to Manalord. My prime nostalgic experience was exploring the world of Golden Sun, a GBA JRPG similar to Final Fantasy 5. Wanting to craft my own fantasy world and replicate that sense of exploration and adventure, I needed a big top-down 2d overworld and classic RPG character progression. 
 
-Since I wanted to build a sandbox world, I needed something to fill my world besides a heavy story. 
-
-So I looked to two games I liked a lot: Harvest Moon and Stardew Valley. 
+Instead of a story-rich game, I wanted to build a sandbox world where you can take a variety of skills, grind and have success with it. Every interaction in Lorim should matter. But without a story, this type of world needs more stuff to do and meaning. Just cutting down mobs would not cut it. So I looked to two games I liked a lot: Harvest Moon and Stardew Valley. Housing and an expansive crafting system were the ideal match to combine with the exploration and loot part.
 
 As I got into pixel art, I really liked building maps as well which is why I went beyond the overworld and also added regular maps.
 
